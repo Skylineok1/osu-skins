@@ -1,2 +1,2 @@
 # osu-skins
-Click ome of the files above to see the skins
+Click one of the files above to see the skins
